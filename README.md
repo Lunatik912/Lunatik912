@@ -4,11 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunatik912&label=Profile%20views&color=0e75b6&style=flat" alt="lunatik912" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gagan_3_2001" target="blank"><img src="https://img.shields.io/twitter/follow/gagan_3_2001?logo=twitter&style=for-the-badge" alt="gagan_3_2001" /></a> </p>
 
-- 🔭 I’m currently pursuing my Masters in Computer Science and Engineering at **BMSIT&M**
-
-- 📫 How to reach me **gaganbadiger9200@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
