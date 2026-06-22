@@ -2,7 +2,3 @@
 <h1 align="center">Hi 👋, I'm Gagan Badiger</h1>
 
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lunatik912&show_icons=true&locale=en" alt="lunatik912" /></p>
-
-
